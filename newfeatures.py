@@ -1,4 +1,4 @@
 import numpy as np
 
 z = np.zeros(10)
-print(z)
+g = np.linspace(3.1, 10.4, 10)
